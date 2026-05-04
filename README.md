@@ -1,19 +1,41 @@
-# Hola, soy Guillermo Benjamin Galindo Sempertegui. 👋
+🟢 Lo que sabes y dominas (Tu Stack Principal)
+Lenguajes y Frameworks:
 
-Desarrollador Full-Stack enfocado en crear soluciones eficientes y arquitecturas limpias. Trabajo principalmente con Flutter, TypeScript y ecosistemas Linux.
+Uso de Flutter y Dart para el desarrollo de aplicaciones móviles y web.
 
----
+Desarrollo con TypeScript y el framework NestJS.
 
-### 🎓 Proyectos Académicos
-* **[Sistemas_Farmacologico_HUJ](enlace-a-tu-repo)**: Aplicación móvil y web de consulta farmacológica desarrollada para la Unidad de Terapia Intensiva (UTI) del Hospital Universitario Japonés. Construida con Flutter y Firebase.
+Bases de Datos:
 
-### 💼 Proyectos Profesionales
-* **[Nombre de otro proyecto / Freelance](enlace-a-tu-repo)**: *[Breve descripción de 1 o 2 líneas sobre la tecnología usada y el problema que resuelve, por ejemplo, implementaciones de bases de datos PostgreSQL o scripts de automatización].*
+Manejo de PostgreSQL, incluyendo la creación de esquemas de bases de datos con herencia.
 
-### 🛠️ Proyectos Personales
-* **[gym-management-system](https://github.com/glnd-tech/gym-management-system)**: Sistema integral de gestión de gimnasios. Arquitectura Monorepo estructurada con NestJS, PostgreSQL y Docker para control de accesos y membresías.
+Utilización de DataGrip para la gestión de bases de datos.
 
----
+Infraestructura, Herramientas y DevOps:
 
-### 💻 Stack Tecnológico Principal
-`Flutter` `Dart` `TypeScript` `JavaScript` `Node.js` `PostgreSQL` `Git`
+Dominio de Linux utilizando Fedora como sistema operativo principal, gestionando compatibilidad de paquetes como .rpm.
+
+Implementación y configuración de contenedores con Docker.
+
+Integración de backend y despliegue web utilizando Firebase y Firebase Hosting.
+
+Gestión de proyectos de ingeniería de software, control de versiones y tableros mediante Azure DevOps y GitHub Desktop.
+
+Configuración avanzada de entornos de desarrollo utilizando Cursor IDE y la terminal Warp adaptada a un flujo de entrada de arriba hacia abajo.
+
+Análisis de Sistemas y Metodología:
+
+Conocimientos de Ingeniería de Sistemas a nivel de décimo semestre, incluyendo el desarrollo de tesis y la redacción de conclusiones y recomendaciones.
+
+Documentación de proyectos y definición de requerimientos funcionales para software.
+
+Diseño de arquitecturas Monorepo para sistemas que requieren múltiples componentes.
+
+Proyectos Destacados (Para tus secciones Profesional/Académica):
+
+Sistemas_Farmacologico_HUJ: Aplicación de consulta de medicamentos diseñada para el personal de enfermería en un entorno hospitalario universitario, con acceso facilitado mediante código QR.
+
+gym-management-system: Sistema integral que gestiona el control de accesos, reservas de clases y membresías.
+
+🟡 Lo que estás aprendiendo activamente
+Idiomas: Estudio del portugués, abarcando desde vocabulario básico hasta estructuras de oraciones complejas y preparación para evaluaciones formales. (Mencionar idiomas adicionales en GitHub siempre suma puntos en perfiles profesionales).
