@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/glnd-dev/glnd-dev/main/assets/gojo.jpeg" width="96" />
-</div>
 
 <br/>
 
