@@ -1,6 +1,9 @@
 <br/>
 
 <table width="100%">
+  <a href="https://github.com/glnd-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glnd-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Top Langs" />
+  </a>
 <tr>
 <td valign="top" width="54%">
 
@@ -25,3 +28,5 @@ $ glnd-tech --whoami
   contact   gb.galindo.tech@gmail.com
 
   ∞ — from the strongest to the strongest
+
+
